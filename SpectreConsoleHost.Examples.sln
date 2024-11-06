@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefaultCommand", "DefaultCo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetFramework48", "DotNetFramework48\DotNetFramework48.csproj", "{335B2B30-4B9E-4158-AE95-9136F41EA210}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethods", "ExtensionMethods\ExtensionMethods.csproj", "{763FDBA9-B75A-4C61-A4EB-797F452DECDB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{335B2B30-4B9E-4158-AE95-9136F41EA210}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{335B2B30-4B9E-4158-AE95-9136F41EA210}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{335B2B30-4B9E-4158-AE95-9136F41EA210}.Release|Any CPU.Build.0 = Release|Any CPU
+		{763FDBA9-B75A-4C61-A4EB-797F452DECDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{763FDBA9-B75A-4C61-A4EB-797F452DECDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{763FDBA9-B75A-4C61-A4EB-797F452DECDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{763FDBA9-B75A-4C61-A4EB-797F452DECDB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
